@@ -1,0 +1,12 @@
+{
+  "name": "@fw7/frontend_hubble",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack serve --config webpack.config.js",
+    "lint": "eslint src --ext .ts",
+    "test": "jest",
+    "build": "webpack build"
+  }
+}
