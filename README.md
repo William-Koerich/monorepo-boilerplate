@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hubble Analytics Boilerplate</h1>
+<h1 align="center">Boilerplate</h1>
 
 ## 🛸 Sobre
 
